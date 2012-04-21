@@ -8,7 +8,7 @@
 
 //==Optionen==
 var FIX_CHAT = 1; //1 = Chat wird fixiert; 0 = keine Änderung
-var HIDE_FRIENDS = 0; //1 = versteckt den "Freunde online" Tab; 0 = keine Änderung
+var HIDE_FRIENDS = 0; //1 = versteckt den "Freunde online" Tab. Der wird durch die Chatliste sowieso überflüssig.; 0 = keine Änderung
 var HIDE_ADDS = 0; //1 = versteckt Werbeeinblendungen auf der Startseite und den Userpages; 0 = keine Änderungen
 //==/Optionen==
 
