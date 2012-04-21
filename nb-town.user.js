@@ -15,7 +15,7 @@ var HIDE_ADDS = 0; //1 = versteckt Werbeeinblendungen auf der Startseite und den
 
 var chatStyle = ".m_friendlist_start { position:fixed !important; }";
 var friendsStyle = "#td_friends { display: none !important; }";
-var addsStyle = "#google_ads_div_468iger_ad_wrapper { display: none !important; } .werbung1 { display: none; } .buttons1 { display: none; }";
+var addsStyle = ".inhalt1 { top: 180px !important; } #google_ads_div_468iger_ad_wrapper { display: none !important; } .werbung1 { display: none; } .buttons1 { display: none; }";
 
 if (FIX_CHAT == 1) {
 	addStyle(chatStyle)
