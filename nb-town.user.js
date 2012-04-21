@@ -4,6 +4,7 @@
 // @description   none
 // @include       http://nb-town.de/*
 // @include       http://www.nb-town.de/*
+// @include       http://www.nb-town.de/?jump=userpages&gerade_online_only=1
 // ==/UserScript==
 
 //==Optionen==
